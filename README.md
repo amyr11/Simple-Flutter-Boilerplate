@@ -6,10 +6,8 @@
 
 ## Getting Started
 
-### Clone this project
-```
-git clone https://github.com/amyr11/Simple-Flutter-Boilerplate.git
-```
+### Fork this project
+Create your own copy of this repository by forking it.
 
 ### Install packages
 ```
