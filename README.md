@@ -7,7 +7,7 @@
 ## Getting Started
 
 ### Fork this project
-Create your own copy of this repository by forking it.
+[Create your own copy of this repository by forking it.](https://github.com/amyr11/Simple-Flutter-Boilerplate/fork)
 
 ### Install packages
 ```
